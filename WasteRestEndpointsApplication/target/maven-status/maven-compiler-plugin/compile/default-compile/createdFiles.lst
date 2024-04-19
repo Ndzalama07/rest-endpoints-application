@@ -1,0 +1,16 @@
+com\enviro\assessment\grad001\ndzalamamokoena\service\WasteCategoryServiceImpl.class
+com\enviro\assessment\grad001\ndzalamamokoena\entity\WasteCategory.class
+com\enviro\assessment\grad001\ndzalamamokoena\repository\DisposalGuidelineRepository.class
+com\enviro\assessment\grad001\ndzalamamokoena\service\WasteCategoryService.class
+com\enviro\assessment\grad001\ndzalamamokoena\entity\RecyclingTip.class
+com\enviro\assessment\grad001\ndzalamamokoena\controllers\RecyclingTipController.class
+com\enviro\assessment\grad001\ndzalamamokoena\repository\WasteCategoryRepository.class
+com\enviro\assessment\grad001\ndzalamamokoena\service\DisposalGuidelineService.class
+com\enviro\assessment\grad001\ndzalamamokoena\controllers\WasteCategoryController.class
+com\enviro\assessment\grad001\ndzalamamokoena\controllers\DisposalGuidelineController.class
+com\enviro\assessment\grad001\ndzalamamokoena\entity\DisposalGuideline.class
+com\enviro\assessment\grad001\ndzalamamokoena\repository\RecyclingTipRepository.class
+com\enviro\assessment\grad001\ndzalamamokoena\service\RecyclingTipServiceImpl.class
+com\enviro\assessment\grad001\ndzalamamokoena\WasteRestEndpointsApplication.class
+com\enviro\assessment\grad001\ndzalamamokoena\service\DisposalGuidelineServiceImpl.class
+com\enviro\assessment\grad001\ndzalamamokoena\service\RecyclingTipService.class
